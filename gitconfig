@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = l.nico08@laposte.net
+	name = Nico L
